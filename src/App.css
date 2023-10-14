@@ -1,0 +1,32 @@
+.centered-button {
+  display: block;
+  margin: 10px auto;
+  background-color: #007bff;
+  color: #fff;
+  padding: 5px 10px;
+  border: none;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.task-list-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+input {
+  margin: 10px 0;
+}
+
+button {
+  background-color: darkblue;
+  color: darkblue;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+}
